@@ -16,8 +16,10 @@ Course Link: https://www.coursera.org/learn/html-css-javascript-for-web-develope
 ## Module #5 Coding Assignment Solution
   code url: https://github.com/anaghaaaa/Coursera-HTML-CSS-Javascript-for-Web-Developers/tree/main/module5-solution
   
-  Certificate
-  https://github.com/anaghaaaa/Coursera-HTML-CSS-Javascript-for-Web-Developers/blob/main/Certificate.png
+## Certificate
+![alt text](https://github.com/[anaghaaaa]/[Coursera-HTML-CSS-Javascript-for-Web-Developers]/blob/main/Certificate.png?raw=true)
+
+ 
   
 
 
