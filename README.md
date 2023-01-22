@@ -1,4 +1,4 @@
-# Coursera-HTML-CSS-Javascript-for-Web-Developers
+
 # Coursera-HTML-CSS-Javascript-for-Web-Developers (by Johns Hopkins University)
 This repository is created for submitting the solutions of the assignments of the course in Coursera.
 
@@ -11,7 +11,7 @@ Course Link: https://www.coursera.org/learn/html-css-javascript-for-web-develope
   code url: https://github.com/anaghaaaa/Coursera-HTML-CSS-Javascript-for-Web-Developers/tree/main/module3-solution
 
 ## Module #4 Coding Assignment Solution
-  code url: 
+  code url: https://github.com/anaghaaaa/Coursera-HTML-CSS-Javascript-for-Web-Developers/tree/main/module4-solution
 
 ## Module #5 Coding Assignment Solution
   code url: 
